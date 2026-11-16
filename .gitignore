@@ -1,0 +1,20 @@
+# 构建产物
+build/
+dist/
+*.apk
+*.idsig
+
+# 本地签名材料
+debug.keystore
+*.jks
+*.keystore
+
+# 编辑器 / 系统垃圾
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
