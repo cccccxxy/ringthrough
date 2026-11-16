@@ -10,6 +10,8 @@
          └── 其他来电   ──> 保持静音
 ```
 
+**[⬇ 下载 APK v1.1](https://github.com/cccccxxy/ringthrough/releases/latest)** · Android 9+ · 37 KB
+
 ## 特性
 
 - **静音也能响**：铃声通过 `USAGE_ALARM` / `STREAM_ALARM` 通道播放。静音模式只静音铃声和通知通道，闹钟通道默认仍然出声。
@@ -22,7 +24,7 @@
 
 ## 安装
 
-从 Releases 下载 APK 安装，或者自己构建（见下文）。
+从 [Releases](https://github.com/cccccxxy/ringthrough/releases/latest) 下载 `ringthrough.apk` 安装，或者自己构建（见下文）。
 
 首次打开按提示做三件事：
 
